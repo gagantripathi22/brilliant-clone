@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  width: 100vw;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+  outline: none;
+}
+
+a {
+  margin: 0;
+}
+
+p {
+  align-items: baseline;
+}
