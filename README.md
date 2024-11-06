@@ -1,7 +1,5 @@
 # Brilliant Clone
 
-A responsive web application mimicking the core features of Brilliant.org, with integrated Google-based user authentication and course selection/filtering features. 
-
 ## Setup Instructions
 
 1. **Clone the repository**:
